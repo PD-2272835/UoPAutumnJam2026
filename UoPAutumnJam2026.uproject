@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B14217E4-45B8-58B3-E07F-939F03270504}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UoPAutumnJam2026",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
