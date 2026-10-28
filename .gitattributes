@@ -1,0 +1,10 @@
+#Metahuman Binary + Object Files
+Content/MetaHumans/**/*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MetaHumans/**/*.umap filter=lfs diff=lfs merge=lfs -text
+Content/MetaHumans/**/*.json filter=lfs diff=lfs merge=lfs -text
+
+#Any Texture & Source Files
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.exr filter=lfs diff=lfs merge=lfs -text
